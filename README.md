@@ -18,7 +18,7 @@ This project implements a **content-based recommendation system** for Amazon pro
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Akshatbhatnagar908/Amazon-recommendation-system.git
+   git clone https://github.com/Akshatbhatnagar908/Amazon recommendation system.git
    ```
 2. Navigate to the project directory:
    ```bash
