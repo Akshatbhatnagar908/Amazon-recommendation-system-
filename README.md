@@ -42,7 +42,8 @@ This project is licensed under the MIT License.
 
 ## Author
 [Akshat Bhatnagar](https://github.com/Akshatbhatnagar908)
-https://www.linkedin.com/in/akshatbhatnagar908/
+
+ https://www.linkedin.com/in/akshatbhatnagar908/
 
 ---
 Feel free to modify and improve the system as needed! 🚀
